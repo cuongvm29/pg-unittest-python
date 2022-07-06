@@ -1,9 +1,9 @@
 ## Mục lục
-* [1. Khái niệm về Unit Test](#1khái-niệm-về-unit-test)
-* [2. Thiết kế Unit test](#2thiết-kế-unit-test)  
-* [3. Ứng dụng Unit test](#3ứng-dụng-unit-test)  
-* [4. Lợi ích của việc áp dụng Unit test](#4lợi-ích-của-việc-áp-dụng-unit-test)
-* [5. Unittest trong python](##5unittest-trong-python)
+* [1. Khái niệm về Unit Test](#1-khái-niệm-về-unit-test)
+* [2. Thiết kế Unit test](#2-thiết-kế-unit-test)  
+* [3. Ứng dụng Unit test](#3-ứng-dụng-unit-test)  
+* [4. Lợi ích của việc áp dụng Unit test](#4-lợi-ích-của-việc-áp-dụng-unit-test)
+* [5. Unittest trong python](##5-unittest-trong-python)
 
 
 ## 1. Khái niệm về Unit Test 
@@ -32,7 +32,7 @@ Mỗi UT đều được tiết kế theo trình tự sau:
     - Kiểm tra sự hoạt động đúng đắn của các phương thức.
     - Dọn dẹp tài nguyên sau khi kết thúc kiểm tra.
 
-## 3. Ứng dụng Unit tes
+## 3. Ứng dụng Unit test
     - Kiểm tra mọi đơn vị nhỏ nhất là các thuộc tính, sự kiện, thủ tục và hàm.
     - Kiểm tra các trạng thái và ràng buộc của đối tượng ở các mức sâu hơn mà thông thường chúng ta không thể truy cập được.
     - Kiểm tra các quy trình (process) và mở rộng hơn là các khung làm việc(workflow – tập hợp của nhiều quy trình)
