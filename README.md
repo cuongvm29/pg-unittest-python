@@ -50,16 +50,16 @@ Trong môi trường làm việc Unit Test còn có tác dụng rất lớn đ�
     - Là công cụ đánh giá năng lực của bạn. Số lượng các tình huống kiểm tra (test case) chuyển trạng thái “pass” sẽ thể hiện tốc độ làm việc, năng suất của bạn.
 
 ## 5.Unittest trong python:
-    1. Cài thư viện
+1. Cài thư viện
     ```
         pip install -U pytest
     ```
-    2. Kiểm tra thư viện
+2. Kiểm tra thư viện
     ```
         pytest --version
     ```
-    3. Ví dụ
-        * Tạo file test_sample.py 
+3. Ví dụ
+    * Tạo file test_sample.py 
         ```py
             # content of test_sample.py
             def func(x):
@@ -69,15 +69,15 @@ Trong môi trường làm việc Unit Test còn có tác dụng rất lớn đ�
             def test_answer():
                 assert func(4) == 5
         ```
-        * Chạy command
+    * Chạy command
         ```
             pytest test_sample.py 
         ```
-        * Hiển thị coverage in console
+    * Hiển thị coverage in console
         ```
             pytest test_sample.py --cov  
         ```
-        * Gen file coverage.html
+    * Gen file coverage.html
         ```
             pytest test_sample.py --cov  --cov-report=html
         ``` 
