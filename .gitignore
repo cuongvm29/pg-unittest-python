@@ -1,0 +1,9 @@
+.vscode
+node_modules
+.markdown-viewer
+htmlcov
+.coverage
+package-lock.json
+package.json
+__pycache__/*
+*pyc
