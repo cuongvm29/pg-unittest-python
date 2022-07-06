@@ -43,7 +43,7 @@ Thời gian đầu, người ta thường do dự khi phải viết UT thay vì 
     - Phát hiện các thuật toán thực thi không hiệu quả, các thủ tục chạy vượt quá giới hạn thời gian. <br/>
     - Phát hiện các vấn đề về thiết kế, xử lý hệ thống, thậm chí các mô hình thiết kế. <br/>
     - Phát hiện các lỗi nghiêm trọng có thể xảy ra trong những tình huống rất hẹp. <br/>
-    Tạo hàng rào an toàn cho các khối mã: Bất kỳ sự thay đổi nào cũng có thể tác động đến hàng rào này và thông báo những nguy hiểm tiềm tàng. <br/>
+    - Tạo hàng rào an toàn cho các khối mã: Bất kỳ sự thay đổi nào cũng có thể tác động đến hàng rào này và thông báo những nguy hiểm tiềm tàng. <br/>
 
 Trong môi trường làm việc Unit Test còn có tác dụng rất lớn đến năng suất làm việc: <br/>
     - Giải phóng chuyên viên QA khỏi các công việc kiểm tra phức tạp. <br/>
