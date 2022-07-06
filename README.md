@@ -81,8 +81,11 @@ Trong môi trường làm việc Unit Test còn có tác dụng rất lớn đ�
         ```
             pytest test_sample.py --cov  --cov-report=html
         ``` 
-    4. Một số khái niệm cần tìm hiểu:
-        * Mock (return_value, side_effect)
-        * Input
-        * Exepct
-        * Coverage
+4. Một số khái niệm cần tìm hiểu:
+    * Mock (return_value, side_effect)
+    * Input
+    * Exepct
+    * Coverage
+
+5. Docs
+    - https://docs.pytest.org/en/7.1.x/getting-started.html
