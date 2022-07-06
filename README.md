@@ -77,7 +77,7 @@ Trong môi trường làm việc Unit Test còn có tác dụng rất lớn đ�
         ```
             pytest test_sample.py --cov  
         ```
-    * Gen file coverage.html
+    * Tạo file coverage.html
         ```
             pytest test_sample.py --cov  --cov-report=html
         ``` 
