@@ -50,7 +50,7 @@ Trong môi trường làm việc Unit Test còn có tác dụng rất lớn đ�
     - Tăng sự tự tin khi hoàn thành một công việc. Chúng ta thường có cảm giác không chắc chắn về các đoạn mã của mình như liệu các lỗi có quay lại không, hoạt động của module hiện hành có bị tác động không, hoặc liệu công việc hiệu chỉnh mã có gây hư hỏng đâu đó…
     - Là công cụ đánh giá năng lực của bạn. Số lượng các tình huống kiểm tra (test case) chuyển trạng thái “pass” sẽ thể hiện tốc độ làm việc, năng suất của bạn.
 
-## 5.Unittest trong python:
+## 5. Unittest trong python:
 1. Cài thư viện
     ```
         pip install -U pytest
